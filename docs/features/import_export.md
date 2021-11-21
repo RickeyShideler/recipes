@@ -5,7 +5,7 @@ to offer the best experience possible and allow you to freely choose where your 
     The Module is relatively new. There is a know issue with [Timeouts](https://github.com/vabene1111/recipes/issues/417) on large exports.
     A fix is being developed and will likely be released with the next version.
 
-The Module is build with maximum flexibility and expandability in mind and allows to easily add new
+The Module is built with maximum flexibility and expandability in mind and allows to easily add new
 integrations to allow you to both import and export your recipes into whatever format you desire.
 
 Feel like there is an important integration missing ? Just take a look at the [integration issues](https://github.com/vabene1111/recipes/issues?q=is%3Aissue+is%3Aopen+label%3Aintegration) or open a new one
@@ -41,7 +41,7 @@ Overview of the capabilities of the different integrations.
 ✔ = implemented, ❌ = not implemented and not possible/planned, ⌚ = not yet implemented
 
 ## Default
-The default integration is the build in (and preferred) way to import and export recipes.
+The default integration is the built in (and preferred) way to import and export recipes.
 It is maintained with new fields added and contains all data to transfer your recipes from one installation to another.
 
 It is also one of the few recipe formats that is actually structured in a way that allows for 
